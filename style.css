@@ -73,10 +73,10 @@ th {
         background-color: black;
     }
     tr:nth-child(even){
-        background-color: blue;
+        background-color: rgb(19, 2, 3);
     }
     tr:nth-child(odd){
-        background-color: #24a066;
+        background-color: #4ba024;
     }
 
     #foto1  {
